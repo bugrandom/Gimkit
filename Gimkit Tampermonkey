@@ -6,8 +6,8 @@
 // @run-at      document-start
 // @iconURL     https://www.gimkit.com/favicon.png
 // @author      TheLazySquid
-// @updateURL   
-// @downloadURL 
+// @updateURL   https://github.com/bugrandom/Gimkit/blob/main/Gimkit%20Tampermonkey
+// @downloadURL https://github.com/bugrandom/Gimkit/blob/main/Gimkit%20Tampermonkey
 // @version     0.3.6
 // @license     ISC
 // @grant       GM_getValue
